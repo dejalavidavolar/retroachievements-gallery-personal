@@ -1,4 +1,4 @@
-# retroachievements-gallery-personal
+# retroachievements-gallery-personal ❤️
 
 A static RetroAchievements artpiece showing recent achievements, mastered/completed games, and rich presence.
 
