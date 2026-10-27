@@ -1,4 +1,18 @@
 {
-  "Total": 0,
-  "Results": []
+  "Results": [
+    {
+      "GameID": 10434,
+      "Title": "Crash Bandicoot",
+      "ImageIcon": "/Images/081157.png",
+      "ConsoleID": 12,
+      "ConsoleName": "PlayStation",
+      "MaxPossible": 46,
+      "NumAwarded": 1,
+      "NumAwardedHardcore": 0,
+      "MostRecentAwardedDate": "2026-10-26T21:38:57+00:00",
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    }
+  ],
+  "Total": 1
 }
