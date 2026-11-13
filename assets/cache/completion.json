@@ -1,5 +1,19 @@
 {
+  "Total": 2,
   "Results": [
+    {
+      "GameID": 20988,
+      "Title": "Harry Potter and the Order of the Phoenix",
+      "ImageIcon": "/Images/117521.png",
+      "ConsoleID": 21,
+      "ConsoleName": "PlayStation 2",
+      "MaxPossible": 37,
+      "NumAwarded": 1,
+      "NumAwardedHardcore": 0,
+      "MostRecentAwardedDate": "2026-11-13T17:01:43+00:00",
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
     {
       "GameID": 10434,
       "Title": "Crash Bandicoot",
@@ -13,6 +27,5 @@
       "HighestAwardKind": null,
       "HighestAwardDate": null
     }
-  ],
-  "Total": 1
+  ]
 }
